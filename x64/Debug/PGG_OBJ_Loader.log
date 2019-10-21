@@ -1,0 +1,11 @@
+﻿  Scene.cpp
+f:\pggobjloader\pgg_obj_loader\mesh.h(5): fatal error C1083: Cannot open include file: 'GLM/glm.hpp': No such file or directory
+  Mesh.cpp
+f:\pggobjloader\pgg_obj_loader\mesh.h(5): fatal error C1083: Cannot open include file: 'GLM/glm.hpp': No such file or directory
+  Material.cpp
+f:\pggobjloader\pgg_obj_loader\material.cpp(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Main.cpp
+f:\pggobjloader\pgg_obj_loader\main.cpp(3): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  GameObject.cpp
+f:\pggobjloader\pgg_obj_loader\gameobject.cpp(2): fatal error C1083: Cannot open include file: 'GLM/gtc/type_ptr.hpp': No such file or directory
+  Generating Code...

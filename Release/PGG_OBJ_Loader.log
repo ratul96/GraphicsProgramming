@@ -1,0 +1,14 @@
+﻿  GameObject.cpp
+  Ground.cpp
+  Main.cpp
+  Material.cpp
+  Mesh.cpp
+  Scene.cpp
+  Skybox.cpp
+  Tree.cpp
+  glew.c
+  Generating code
+  All 809 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PGG_OBJ_Loader.vcxproj -> C:\Users\ratul\Desktop\PGGAssgnOBJLoader3Corrected\Release\PGG_OBJ_Loader.exe
+  PGG_OBJ_Loader.vcxproj -> C:\Users\ratul\Desktop\PGGAssgnOBJLoader3Corrected\Release\PGG_OBJ_Loader.pdb (Full PDB)
